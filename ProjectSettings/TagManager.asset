@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pearp
+  - Applep
+  - Mangop
+  - dp
+  - Orangep
+  - BlinkingLight
+  - Orange
+  - Mango
+  - Pear
+  - Banana
+  - Bananap
+  - Apple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: button
+    uniqueID: 2556813761
+    locked: 0
+  - name: Slider1
+    uniqueID: 3427634063
+    locked: 0
+  - name: Slider2
+    uniqueID: 2825795111
+    locked: 0
+  - name: Slider3
+    uniqueID: 1073746727
+    locked: 0
+  - name: Characters
+    uniqueID: 2367573145
+    locked: 0
+  - name: Background
+    uniqueID: 3589369645
+    locked: 0

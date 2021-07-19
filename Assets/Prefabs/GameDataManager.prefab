@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4731493836312269879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4731493836312269877}
+  - component: {fileID: 4731493836312269878}
+  m_Layer: 0
+  m_Name: GameDataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4731493836312269877
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4731493836312269879}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 465.45142, y: 210.44897, z: -0.07736206}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4731493836312269878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4731493836312269879}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00440b193b3fa4747892f63b0c5d6820, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameData:
+    Lesson1: 
+    IsLesson1Unity: 0
+    Lesson2: 
+    IsLesson2Unity: 0
+    Lesson3: 
+    IsLesson3Unity: 0
+    EnglishPod: 0
+    MathsPod: 0
+    ESPod: 0
+    EnglishLesson: []
+    IsUnityEnglishLesson: 
+    MathsLesson: []
+    IsUnityMathsLesson: 
+    ESLesson: []
+    IsUnityESLesson: 0000
+    WebGlUrl: 
+    skybox: {fileID: 0}
+    EnglishLessonPopUpImage: []
+    MathsLessonPopUpImage: []
+    ESLessonPopUpImage: []
+    LandPrefab: {fileID: 0}
+    LandPostion: {x: 0, y: 0, z: 0}
+  RayKindleLogo: {fileID: 2800000, guid: 8ca951bc251234741a2b7541c584fef6, type: 3}
+  RayKindleLoading: {fileID: 2800000, guid: 90d7dfbc111355241b9846b6a007e71d, type: 3}
+  CurrentLevel: {fileID: 11400000, guid: bbe41a60976aba940a121549111bf0f8, type: 2}
