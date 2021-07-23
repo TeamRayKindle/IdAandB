@@ -5,25 +5,25 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/k-l1-e-4.unity
     guid: 1a059540d582eca43a8a1f9e42ef875a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/B2nd.unity
     guid: fa016dd2cac89b342bc102fe9ae0b52a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scene/boutro.unity
     guid: 677854b90810fda41bc17b833fb27018
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/k-l1-e-1.unity
     guid: e32b6c605ad03e84989542be0d5192bf
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/CapA.unity
     guid: c26d2deeabe814d4aa71977516523b3f
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/SmallAs.unity
     guid: d4cb69ce67f104645b6d82d6a510282d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scene/out.unity
     guid: e73be9feba9b91246aa7822283cfe128
   m_configObjects: {}
